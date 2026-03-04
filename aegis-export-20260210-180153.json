@@ -1,0 +1,27 @@
+{
+    "version": 1,
+    "header": {
+        "slots": [
+            {
+                "type": 1,
+                "uuid": "32bcd914-803b-4b7e-9131-a0ec5493261a",
+                "key": "77a6a6f626e45c036026eb20d9bfbec3f0ce034c674eabda1835118675b5693e",
+                "key_params": {
+                    "nonce": "a5176bba2178823e9a6afbf5",
+                    "tag": "938cb43185ac7c4c5bfd343d33210b77"
+                },
+                "n": 32768,
+                "r": 8,
+                "p": 1,
+                "salt": "961574faea8bc70f4dd32763b12e3b5cd8165e72f268a20971eb5108e341af96",
+                "repaired": true,
+                "is_backup": false
+            }
+        ],
+        "params": {
+            "nonce": "9678bccd2b8506b35caa7a00",
+            "tag": "ff1b3548b6571904a0c56d158bf94452"
+        }
+    },
+    "db": "FR\/mBuMBdekDNUQuNGDaIjh7faPKQHDhWnlD4RWai4OdjRzt+6gL1woQsxvZUZi9ZzyDiaZuoimEf19Lb0SwmQv6JiRIYFfo+jlYYrPRE3ZO9ZzkLJY="
+}
